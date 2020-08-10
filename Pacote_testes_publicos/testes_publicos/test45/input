@@ -1,0 +1,3 @@
+puzzle(puz4, [L,G]), resolve([L,G]), escreve_Grelha(G); writeln('false').
+
+6Fa1ti5ma9
